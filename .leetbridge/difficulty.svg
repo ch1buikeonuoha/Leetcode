@@ -18,8 +18,9 @@
 <rect x="1" y="1" width="358" height="343" rx="12" fill="#141321" stroke="#30363d"/>
 <rect x="1" y="1" width="358" height="4" rx="2" fill="url(#accent)"/>
 <text x="32" y="45" class="heading">Difficulty</text>
-<circle cx="112" cy="166" r="68" fill="#00b8a3"/>
+<path d="M 112 166 L 112.00 98.00 A 68 68 0 0 1 112.00 234.00 Z" fill="#00b8a3"/><path d="M 112 166 L 112.00 234.00 A 68 68 0 0 1 112.00 98.00 Z" fill="#8b949e"/>
 <circle cx="112" cy="166" r="34" fill="#141321"/>
-<circle cx="216" cy="121" r="7" fill="#00b8a3"/><text x="232" y="126" class="metric">Easy</text><text x="328" y="126" class="count" text-anchor="end">100%</text>
+<circle cx="216" cy="121" r="7" fill="#00b8a3"/><text x="232" y="126" class="metric">Easy</text><text x="328" y="126" class="count" text-anchor="end">50%</text>
+<circle cx="216" cy="163" r="7" fill="#8b949e"/><text x="232" y="168" class="metric">Other</text><text x="328" y="168" class="count" text-anchor="end">50%</text>
 <text x="328" y="326" class="link" text-anchor="end">View profile ↗</text>
 </svg>
