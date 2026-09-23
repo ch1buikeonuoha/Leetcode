@@ -5,16 +5,17 @@ A collection of accepted LeetCode solutions automatically synced by LeetBridge.
 <!-- SOLUTIONS_START -->
 
 <p align="center">
-<a href="#solution-archive"><img src=".leetbridge/progress.svg" alt="7 solved: 6 Easy, 0 Medium, 0 Hard" width="33.333%"></a><a href="https://github.com/ch1buikeonuoha/Leetcode"><img src=".leetbridge/languages.svg" alt="Solution languages" width="33.333%"></a><a href="https://leetcode.com/u/ch1buikeonuoha/"><img src=".leetbridge/difficulty.svg" alt="Difficulty breakdown" width="33.333%"></a>
+<a href="#solution-archive"><img src=".leetbridge/progress.svg" alt="8 solved: 7 Easy, 0 Medium, 0 Hard" width="33.333%"></a><a href="https://github.com/ch1buikeonuoha/Leetcode"><img src=".leetbridge/languages.svg" alt="Solution languages" width="33.333%"></a><a href="https://leetcode.com/u/ch1buikeonuoha/"><img src=".leetbridge/difficulty.svg" alt="Difficulty breakdown" width="33.333%"></a>
 </p>
 
 <!-- LEETBRIDGE_ARCHIVE_CELLS_V3 -->
 <a name="solution-archive"></a>
 <p align="center"><picture>
-<img src=".leetbridge/archive/header.svg?v=3" alt="Solution Archive: 7 accepted problems synced by LeetBridge" width="100%">
+<img src=".leetbridge/archive/header.svg?v=3" alt="Solution Archive: 8 accepted problems synced by LeetBridge" width="100%">
 </picture></p>
 <table align="center" width="100%">
 <tbody>
+<tr><td width="53%"><a href="https://leetcode.com/problems/customers-who-never-order/"><img src=".leetbridge/archive/problems/0183-customers-who-never-order.svg?v=3" alt="0183 · Customers Who Never Order" width="100%"></a></td><td width="17%"><picture><img src=".leetbridge/archive/difficulties/easy.svg?v=3" alt="Easy" width="100%"></picture></td><td width="30%"><a href="0183-customers-who-never-order/solution.py"><img src=".leetbridge/archive/languages/pandas-5a25c1b8.svg?v=3" alt="Pandas" width="100%"></a></td></tr>
 <tr><td width="53%"><a href="https://leetcode.com/problems/rising-temperature/"><img src=".leetbridge/archive/problems/0197-rising-temperature.svg?v=3" alt="0197 · Rising Temperature" width="100%"></a></td><td width="17%"><picture><img src=".leetbridge/archive/difficulties/easy.svg?v=3" alt="Easy" width="100%"></picture></td><td width="30%"><a href="0197-rising-temperature/solution.sql"><img src=".leetbridge/archive/languages/mysql-fa289ffd.svg?v=3" alt="MySQL" width="100%"></a></td></tr>
 <tr><td width="53%"><a href="https://leetcode.com/problems/product-sales-analysis-i/"><img src=".leetbridge/archive/problems/1068-product-sales-analysis-i.svg?v=3" alt="1068 · Product Sales Analysis I" width="100%"></a></td><td width="17%"><picture><img src=".leetbridge/archive/difficulties/easy.svg?v=3" alt="Easy" width="100%"></picture></td><td width="30%"><a href="1068-product-sales-analysis-i/solution.sql"><img src=".leetbridge/archive/languages/mysql-fa289ffd.svg?v=3" alt="MySQL" width="100%"></a></td></tr>
 <tr><td width="53%"><a href="https://leetcode.com/problems/article-views-i/"><img src=".leetbridge/archive/problems/1148-article-views-i.svg?v=3" alt="1148 · Article Views I" width="100%"></a></td><td width="17%"><picture><img src=".leetbridge/archive/difficulties/easy.svg?v=3" alt="Easy" width="100%"></picture></td><td width="30%"><a href="1148-article-views-i/solution.sql"><img src=".leetbridge/archive/languages/mysql-fa289ffd.svg?v=3" alt="MySQL" width="100%"></a></td></tr>
